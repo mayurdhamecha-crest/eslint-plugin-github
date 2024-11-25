@@ -30,7 +30,7 @@
   "homepage": "https://github.com/github/eslint-plugin-github#readme",
   "dependencies": {
     "@github/browserslist-config": "^1.0.0",
-    "@typescript-eslint/eslint-plugin": "^8.0.0",
+    "@typescript-eslint/eslint-plugin": "^8.13.0",
     "@typescript-eslint/parser": "^8.0.0",
     "aria-query": "^5.3.0",
     "eslint-config-prettier": ">=8.0.0",
